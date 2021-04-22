@@ -2,13 +2,12 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+![This is a cat](https://homepages.cae.wisc.edu/~ece533/images/cat.png)
 
 <br>
 
-{% include 02-image.md %}
+![This is serrano](https://homepages.cae.wisc.edu/~ece533/images/serrano.png)
 
 <br>
 
-{% include 03-links.md %}
-
+![These are fruits](https://homepages.cae.wisc.edu/~ece533/images/fruits.png)
