@@ -1,1 +1,1 @@
-www.linkedin.com
+[LinkedIn](http://www.linkedin.com)
